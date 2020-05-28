@@ -38,6 +38,11 @@ buildNumber.properties
 .idea
 gmall1128.iml
 
-.idea/
-pom.xml
-src/
+gmall-logger/.gitignore
+gmall-logger/.mvn/
+gmall-logger/mvnw
+gmall-logger/mvnw.cmd
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
